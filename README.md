@@ -1,5 +1,5 @@
 ### 1. Dakangsiji's GitHub stats
-[![Dakangsiji's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakangsiji)](https://github.com/anuraghazra/github-readme-stats)
+![Dakangsiji's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakangsiji&show_icons=true&theme=tokyonight)
 
 ### 2. Dakangsiji's Most used languages
 ![Dakangsiji's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dakangsiji&layout=compact&hide_border=true&langs_count=10)
